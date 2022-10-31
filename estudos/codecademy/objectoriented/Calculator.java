@@ -1,7 +1,15 @@
-package estudos;
+package objectoriented;
 
-/* LEARN JAVA - A Basic Calculator
- * Codecademy */
+/* A Basic Calculator
+ * Codecademy
+ *  
+
+ * The calculator will be able to:
+ * Add two integers
+ * Subtract two integers
+ * Multiply two integers
+ * Divide two integers
+ */
 
 public class Calculator{
 

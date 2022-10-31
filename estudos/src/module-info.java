@@ -1,9 +1,3 @@
 /**
- * 
+ *  Testing, searching, studiyng.
  */
-/**
- * @author thalia
- *
- */
-module estudos {
-}
