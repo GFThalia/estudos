@@ -1,14 +1,16 @@
 package conditionalsAndControl;
 
-/*CONDITIONALS AND CONTROL FLOW
+/* CONDITIONALS AND CONTROL FLOW
  * If-Then-Else-If;
  * Nested Conditional Statements;
  * Switch Statement;
  * 
+ * The console should print out:
  * High value item!
  * Shipping
  * Shipping cost:  0.85
  * Order not ready
+ * 
  */
 
 public class Order {

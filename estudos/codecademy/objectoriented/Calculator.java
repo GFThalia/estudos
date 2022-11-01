@@ -1,14 +1,20 @@
 package objectoriented;
 
 /* A Basic Calculator
- * Codecademy
  *  
-
  * The calculator will be able to:
  * Add two integers
  * Subtract two integers
  * Multiply two integers
  * Divide two integers
+ * 
+ * 
+ * The console should print out:
+ * 10
+ * 10
+ * 10
+ * 10
+ * 
  */
 
 public class Calculator{

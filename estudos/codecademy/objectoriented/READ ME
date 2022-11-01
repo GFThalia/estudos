@@ -1,3 +1,15 @@
 	
-	I'm learning about datatypes in Java and how we use them.
-	Then, practicing my skills with two projects where i create and manipulate variables.
+I'm learning about datatypes in Java and how we use them.
+Then, practicing my skills with two projects where i create and manipulate variables:
+	
+ 1.Calculator
+ 	A Basic Calculator
+  	The calculator will be able to:
+  	Add two integers
+  	Subtract two integers
+  	Multiply two integers
+ 	Divide two integers
+
+ 2.Droid
+   Build A Droid
+   "We’ll need to define the state and behavior of the droids using instance fields and methods."
