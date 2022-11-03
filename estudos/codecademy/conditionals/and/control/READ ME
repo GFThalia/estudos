@@ -10,7 +10,11 @@
 		Length of the loan (in years)
 		Down payment
 		
-	2. 
+	2. Continents
+		Continents and Cities
+		The program that will print out a continent 
+		and the largest city in that continent, based on 
+		the value of an integer.
 	
 	
 	

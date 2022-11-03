@@ -1,4 +1,4 @@
-package conditionalsAndControl;
+package conditionals.and.control;
 
 /* CONDITIONALS AND CONTROL FLOW
  * If-Then-Else-If;

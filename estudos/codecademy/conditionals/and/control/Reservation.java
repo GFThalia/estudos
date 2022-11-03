@@ -1,4 +1,4 @@
-package conditionalsAndControl;
+package conditionals.and.control;
 
 /* Conditional-And: &&
  * Conditional-Or: ||

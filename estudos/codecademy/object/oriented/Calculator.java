@@ -1,4 +1,4 @@
-package objectoriented;
+package object.oriented;
 
 /* A Basic Calculator
  *  

@@ -1,4 +1,4 @@
-package conditionalsAndControl;
+package conditionals.and.control;
 
 /*  A Simple Car Loan Payment Calculator
  *  The program will include the following:
