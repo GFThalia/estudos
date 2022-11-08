@@ -1,20 +1,20 @@
 
 	Im learning and praticing about conditionals and control flow in Java programs.
-	Then, practicing my skills with two projects where i create and manipulate variables:
+	Then, practicing my skills in two projects:
 	
 	1. CarLoan
 		A Simple Car Loan Payment Calculator
-	    The program will include the following:
-		Car loan amount
-		Interest rate of the loan
-		Length of the loan (in years)
-		Down payment
+	     The program will include the following:
+		 Car loan amount
+		 Interest rate of the loan
+		 Length of the loan (in years)
+		 Down payment
 		
 	2. Continents
 		Continents and Cities
-		The program that will print out a continent 
-		and the largest city in that continent, based on 
-		the value of an integer.
+		 The program that will print out a continent 
+		 and the largest city in that continent, based on 
+		 the value of an integer.
 	
 	
 	
@@ -22,7 +22,7 @@
 	
 	IMPORTANT:
  
- Specific conditional statements have the following behavior:
+  Specific conditional statements have the following behavior:
 	if-then:
 	code block runs if condition is true
 	if-then-else:

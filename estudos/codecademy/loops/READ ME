@@ -1,0 +1,24 @@
+ Im learning and praticing about Arrays and Arrayslists in Java programs.
+ Then, practicing my skills in two projects:
+ -
+ -
+	
+	
+	IMPORTANT:
+	
+	While We're Here
+	Like an if statement, the code inside a while loop will 
+	only run if the condition is true. However, a while loop 
+	will continue running the code over and over until the 
+	condition evaluates to false. 
+	
+	Incrementing While Loops
+	When looping through code, it’s common to use a counter variable. 
+	A counter (also known as an iterator) is a variable used in the 
+	conditional logic of the loop and (usually) incremented in value 
+	during each iteration through the code.
+	
+
+
+
+	(CODECADEMY RESUME)

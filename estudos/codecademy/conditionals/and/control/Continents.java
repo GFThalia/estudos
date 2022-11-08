@@ -1,10 +1,11 @@
 package conditionals.and.control;
 
 /* "Write a Continents.java program that will print out a continent and 
- * the largest city in that continent, based on the value of an integer.
+ * the largest city in that continent, based on the value of an integer."
  * 
  * The console should print out:
  * Africa: Lagos, Nigeria
+ * 
  */
 
  public class Continents {
