@@ -20,9 +20,10 @@ echo --------------------------------------
 pause
 cd c:\
 md SUPORTE
-ipconfig /flushdns > Suporte\ArquivoSuporte.txt
-chkdsk >> Suporte\ArquivoSuporte.txt
-sfc /scannow >> ArquivoSuporte.txt
-Dism /Online /Cleanup-Image /ScanHealth >> Suporte\ArquivoSuporte.txt
-Dism /Online /Cleanup-Image /CheckHealth >> Suporte\ArquivoSuporte.txt
+ipconfig /release
+ipconfig /flushdns
+ipconfig /renew
+chkdsk
+Dism /Online /Cleanup-Image /ScanHealth
+Dism /Online /Cleanup-Image /RestaureHealth
 echo FECHAR
